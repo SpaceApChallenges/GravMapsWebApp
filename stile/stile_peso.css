@@ -1,0 +1,152 @@
+div.peso {
+position: absolute;
+top: 10px;
+left: 1039px;
+color: grey;
+font-size: 21px;
+}
+
+a {
+color: white;
+text-decoration: none;
+font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+
+.sistemasolare {
+height: 667px;
+width: 1366px;
+margin-left: -8px;
+margin-top: -8px;
+margin-bottom: -9px;
+}
+
+.pianeta{
+    outline: none;
+}
+
+button#mercurio {
+position: absolute;
+border: 2px solid white;
+top: 344;
+left: 428px;
+height: 30px;
+border-radius: 100%;
+width: 30px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#venere {
+position: absolute;
+border: 2px solid white;
+top: 323;
+left: 556px;
+height: 52px;
+border-radius: 100%;
+width: 66px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#terra {
+position: absolute;
+border: 2px solid white;
+top: 262;
+left: 597px;
+height: 52px;
+border-radius: 100%;
+width: 66px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#marte {
+position: absolute;
+border: 2px solid white;
+top: 274;
+left: 835px;
+height: 48px;
+border-radius: 100%;
+width: 58px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#giove {
+position: absolute;
+border: 2px solid white;
+top: 184;
+left: 776px;
+height: 74px;
+border-radius: 100%;
+width: 105px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#saturno {
+position: absolute;
+border: 2px solid white;
+top: 184;
+left: 1049px;
+height: 74px;
+border-radius: 100%;
+width: 105px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#urano {
+position: absolute;
+border: 2px solid white;
+top: 129;
+left: 958px;
+height: 43px;
+border-radius: 100%;
+width: 43px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+button#nettuno {
+position: absolute;
+border: 2px solid white;
+top: 132;
+left: 1208px;
+height: 32px;
+border-radius: 100%;
+width: 43px;
+background-color: transparent;
+border: none;
+color: transparent;
+}
+
+
+#contenuto_testo {
+width: 347px;
+height: 100px;
+z-index: 1;
+/* border: 2px solid white; */ 
+position: absolute;
+top: 500px;
+left: 947px;
+font-size: 50px;
+}
+
+p{
+    color: white;
+    size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+    
+    
+    
