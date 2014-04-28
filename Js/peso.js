@@ -1,6 +1,5 @@
-var pianeti = ["mia", "mercurio", "venere", "marte", "giove", "saturno", "urano", "nettuno"];
-var valoreGravita = [9.81, 8.87, 3.71, 23.12, 8.96, 8.69, 11.0];
-
+var pianeti = ["mia", "mercurio", "venere", "marte", "giove", "saturno", "urano", "nettuno", "sole", "terra"];
+var valoreGravita = [9.81, 3.70, 8.87, 3.71, 23.12, 8.96, 8.69, 11.0, 274.1, 9.81 ];
 
 $(document).ready(function(){
     $(".pianeta").click(function(){
