@@ -68,3 +68,20 @@ img {
     height: 146%;
     position: absolute;
 }
+
+
+/* mappa colorata */
+a#colorata {
+position: absolute;
+left: -249px;
+top: 10px;
+font-size: 21px;
+}
+
+/* link dentro la pagina mappa colorata */
+a#maps {
+position: absolute;
+top: 10px;
+left: 100px;
+font-size: 21px;
+}
